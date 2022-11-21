@@ -1,2 +1,2 @@
-# tchau mundo
- primeiro repositório
+# Prazer, Mundo!
+ primeiro repositório aprendendo github pela primeira vez sem saber programar KKK
