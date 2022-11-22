@@ -6,6 +6,6 @@
 Essa linha eu adicionei diretamente no site **github**
 Lista de Tarefas
 
-- [Criar a página principal]
-- [Garantir Certificados]
+- [] Criar a pagina principal
+- [] Garantir Certificados
 
