@@ -8,4 +8,7 @@ Lista de Tarefas
 
 - [x] Criar a pagina principal
 - [x] Garantir Certificados
+- [ ] aprender Python,javascript e html antes de acabar o ano.
+- [x] aprender o básico de markdown
+
 
