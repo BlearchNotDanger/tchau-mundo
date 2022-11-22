@@ -3,5 +3,9 @@
 
 
 
-Essa linha eu adicionei diretamente no site
+Essa linha eu adicionei diretamente no site **github**
+Lista de Tarefas
+
+- [Criar a página principal]
+- [Garantir Certificados]
 
